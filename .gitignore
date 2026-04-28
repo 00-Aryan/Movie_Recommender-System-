@@ -1,0 +1,11 @@
+# Ignore Python automation scripts
+*.py
+
+# Ignore temporary text files
+*.txt
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# (CSV, JSON, and MD files are kept as they are part of the project structure)
